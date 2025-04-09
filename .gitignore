@@ -2,3 +2,4 @@
 input_pdfs/
 output_pdfs/
 __pycache__/
+.DS_Store
